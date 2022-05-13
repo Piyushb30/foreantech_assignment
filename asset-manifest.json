@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foreantech_assignment%20/static/css/main.6970d364.css",
+    "main.js": "/foreantech_assignment%20/static/js/main.4ba9648a.js",
+    "index.html": "/foreantech_assignment%20/index.html",
+    "main.6970d364.css.map": "/foreantech_assignment%20/static/css/main.6970d364.css.map",
+    "main.4ba9648a.js.map": "/foreantech_assignment%20/static/js/main.4ba9648a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6970d364.css",
+    "static/js/main.4ba9648a.js"
+  ]
+}
